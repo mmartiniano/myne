@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/myne/static/js/main.f0e99682.js",
+    "static/js/787.cc1766ed.chunk.js": "/myne/static/js/787.cc1766ed.chunk.js",
+    "index.html": "/myne/index.html",
+    "main.f0e99682.js.map": "/myne/static/js/main.f0e99682.js.map",
+    "787.cc1766ed.chunk.js.map": "/myne/static/js/787.cc1766ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f0e99682.js"
+  ]
+}
